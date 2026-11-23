@@ -10,7 +10,8 @@ import sys
 # ROBOTO: Grandma means "robot" and types it the way she hears it —
 # one letter off, warm, baffled, and unmistakably about the machine
 # itself. A typo she would actually make, not a word anyone else
-# would pick on purpose.
+# would pick on purpose. Caps on, the way she types when the
+# caps-lock key is stuck: the whole word, loud and unbothered.
 WORD = "ROBOTO"
 
 
